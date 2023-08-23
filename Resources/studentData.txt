@@ -1,0 +1,4 @@
+Amster Sani|29|Male
+Kimberly Sam|45|Female
+Mary Rogers|21|Male
+James Smith|35|Male
