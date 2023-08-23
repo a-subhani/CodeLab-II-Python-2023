@@ -7,7 +7,7 @@ Once you have completed your solution you should make sure you commit and push y
 &nbsp;
 &nbsp;
 ## Exercise 1: User information ☑️ 
-Write a program to create a file called ```bio.txt``` and write the following information to the file asking user to enter the values:
+Develop a GUI App to create a file called ```bio.txt``` and write the following information to the file asking user to enter the values:
 Name
 Age
 Hometown
@@ -16,12 +16,20 @@ Once the data has been written to the file, read the data from the file and outp
 &nbsp;
 &nbsp;
 ## Exercise 2: Count ☑️ 
-The file ```sentences.txt``` has a list of string data. Create a program that finds out how many times the following sentence appears “Hello my name is Amster Sani”
+The file ```sentences.txt``` has a list of string data. Develop a GUI App that finds out how many times the following string appears 
+
+Hello my name is Peter Parker
+I love Python Programming
+Love
+Enemy
 
 &nbsp;
 &nbsp;
+## Extension
+Create an entry label for free search in the above app
+
 ## Exercise 3: Reading to a List ☑️ 
-The file ```numbers.txt``` has a list of 100 integer numbers each on a newline. Create a program that puts this data into a list, then output the values in integer format.
+The file ```numbers.txt``` has a list of 100 integer numbers each on a newline. Create a python program that puts this data into a list, then output the values in integer format.
 &nbsp;
 &nbsp;
 ## Exercise 4: Petrol Price ☑️ 
@@ -39,20 +47,21 @@ Liters	cost
 ```
 &nbsp;
 &nbsp;
-Write a program that calculates:
+Develop a GUI App that calculates:
 
-- What was the overall average price per litre of petrol bought?
-- How much petrol in litres was bought at under 3.5AED per liter?
+- What was the cost of petrol per liter bought?
+- What was the overall average price per liter of petrol bought?
+- How much petrol in liters was bought at under 3.5AED per liter?
 
 ## Exercise 5: letter count ☑️ 
 
-Write a program that reads the contents of the ```sentences.txt``` file and counts the occurrences of each letter.
+Develop a GUI App that asks the user to enter a character, reads the contents of the ```sentences.txt``` file, and counts the occurrences of the letter.
 
 &nbsp;
 &nbsp;
 ## Exercise 6 : Password Check ☑️ 
 
-Write a program to check the validity of a password given by user. The password should satisfy the following criteria: 
+Develop a GUI App to check the validity of a password given by the user in the entry widget. The password should satisfy the following criteria: 
 - Contain at least 1 letter between a and z 
 - Contain at least 1 number between 0 and 9 
 - Contain at least 1 letter between A and Z
