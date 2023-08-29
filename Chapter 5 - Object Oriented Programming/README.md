@@ -13,7 +13,7 @@ The program should then output the data from each object and the oldest dog shou
 &nbsp;
 &nbsp;
 ## Exercise 2: Student Class ☑️
-Create a class called Students.
+Develop a GUI using Tkinter to Create a class called Students.
 - The class should have the following members.```Name (string), Mark1 (int), Mark2 (int), Mark3 (int) ``` 
 - The class should have the following methods
 ```calcGrade()``` - should return an average from the three marks.```display()```- should output the student name and calculated grade average
@@ -22,31 +22,31 @@ Create a class called Students.
 &nbsp;
 &nbsp;
 ## Exercise 3: Employee Class ☑️
-Create an employee class with the following members:
+Develop a GUI using Tkinter to Create an employee class with the following members:
  ```name, age, id, salary```
 - Add the following methods:
 ```setData()``` - should allow employee data to be set via user input,```getData()```- should output employee data to the console
 - Create a list of 5 employees. Ask the user to enter the details of 5 employees using the add_employee method and then display the output using the display_emloyee method as mentioned below
 Expected output:
 ```			
-Name        Position        Salary     ID
-Alice		     Manager		       9500.0	    1
-Bob		       Accountant		    6000.0	    2
-Brain		     Social Media	   4000.0	    3
-Frank		     Salesman		      2500.0	    4
-Marker	     Clerk		         1500.0	    5
+Name Position Salary ID
+Alice Manager 9500.0 1
+Bob Accountant 6000.0 2
+Brain Social Media 4000.0 3
+Frank Salesman 2500.0 4
+Marker Clerk 1500.0 5
 ```
 &nbsp;
 &nbsp;
 ## Exercise 4: Shapes ☑️
-Develop a GUI app to calculate the area of Shapes.
+Develop a GUI using Tkinter to calculate the area of Shapes.
 Create a parent class called Shape. This should have the following methods
 ```inputSides()``` – Ask the user to enter the sides of the shape. Now create subclasses for a circle, rectangle, and triangle. These should include an appropriate ``` area()``` method that will use the side values from the shape class.
 &nbsp;
 &nbsp;
 
 ## Exercise 5: Playing around in class ☑️
-Use this exercise to play around with creating and accessing class members and methods. Create a class called Animal
+Use this exercise to play around with creating and accessing class members and methods. Develop a GUI using Tkinter to Create a class called Animal
 - Give the class at least the following members  ```Type, Name, Colour, Age, Weight, Noise```
 - The class should have the following methods
 ```sayHello()``` - says its name via print,```makeNoise()``` -make an appropriate noise via print, ```animalDetails()``` -output all the details of the animal object
