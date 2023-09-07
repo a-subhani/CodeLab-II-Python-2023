@@ -12,7 +12,7 @@ Once you have completed your solution you should make sure you commit and push y
 
 Create a GUI with 4 labels using the pack() geometry as shown in the below images. The	first image on the left shows	the	original display and the	second image on right shows	what	happens	when	the	window	is	resized.
 
-![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/961eccd9-0750-4fd5-b553-421e4d0b8d7e)       ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53b0d1f2-b58d-4709-8d5b-ad8b0c908ba8)
+![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/961eccd9-0750-4fd5-b553-421e4d0b8d7e)   &nbsp;&nbsp;    ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53b0d1f2-b58d-4709-8d5b-ad8b0c908ba8)
 
 ### Additional information
 Attribute values for many widgets, including Frames for Borders and Background 
