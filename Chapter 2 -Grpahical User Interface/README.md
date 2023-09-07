@@ -27,7 +27,6 @@ Pack arguments
 
 &nbsp;
 &nbsp;
-
 ### Exercise 1 b: Square Grid ☑️ 	
 - With	the	pack	layout	manager, Create the following labels inside the frames. A and B inside the left frame. C and D inside the right frame
 - Using Pack() align  A and C at the top and B and D at the bottom of the frames that contain them
