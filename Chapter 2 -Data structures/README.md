@@ -6,11 +6,16 @@ Once you have completed your solution you should make sure you commit and push y
 ---
 &nbsp;
 
-## Exercise 1: PACK ☑️ 
+## Exercise 1: Managing	Layout ☑️ 
+
+# Exercise 1 a: Using pack ☑️ 
 
 Create a GUI using the buttons with pack() gerometry as shown below
 
-![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53a4057b-b06f-4a97-a379-648ce1611cfb)
+![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/e08a36a4-5bfd-4252-9f2a-e53e6a7f921f)
+
+https://www.eecs.qmul.ac.uk/~william/CPD2017/gui-practical-sheet.pdf
+
 &nbsp;
 &nbsp;
 ## Exercise 2: Integer List☑️ 
