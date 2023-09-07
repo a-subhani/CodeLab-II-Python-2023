@@ -9,6 +9,7 @@ Once you have completed your solution you should make sure you commit and push y
 ## Exercise 1: PACK ☑️ 
 
 Create a GUI using the buttons with pack() gerometry as shown below
+
 ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53a4057b-b06f-4a97-a379-648ce1611cfb)
 &nbsp;
 &nbsp;
