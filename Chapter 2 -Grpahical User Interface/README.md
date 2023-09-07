@@ -18,7 +18,8 @@ Create a GUI with 4 labels using the pack() geometry as shown in the below image
 Attribute values for many widgets, including Frames for Borders and Background 
 - bd is used for border width. For example bd=5
 - Relief is used for border-style values are FLAT, RAISED, GROOVE, SUNKEN, and RIDGE. For example relief=RAISED
-- bg is used background color.For example bg="white" or bg="#FFFFFF"
+- bg is used for background color.For example bg="white" or bg="#FFFFFF"
+&nbsp;
 &nbsp;
 Pack arguments
 - Fill: Fill the space with the widget, Values are  Y, X, BOTH. For example fill=Y
@@ -28,9 +29,7 @@ Pack arguments
 &nbsp;
 
 ### Exercise 1 b: Square Grid ☑️ 	
-- With	the	pack	layout	manager, Create the following labels inside the frames
--- A and B inside the left frame
---  C and D inside the right frame
+- With	the	pack	layout	manager, Create the following labels inside the frames. A and B inside the left frame. C and D inside the right frame
 - Using Pack() align  A and C at the top and B and D at the bottom of the frames that contain them
 - Support	resizing. Use	the	‘expand’ and	‘fill’ attributes	of	the	pack	method	to	make	the	labels	grow	and	expand	into	the	available	space.
 - Assign border value as 5 to the frames	
