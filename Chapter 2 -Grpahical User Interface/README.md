@@ -15,7 +15,7 @@ Create a GUI with 4 labels using the pack() geometry as shown in the below image
 ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/961eccd9-0750-4fd5-b553-421e4d0b8d7e)   &nbsp;&nbsp;&nbsp;    ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53b0d1f2-b58d-4709-8d5b-ad8b0c908ba8)
 
 ### Additional information
-Attribute values for many widgets, including Frames for Borders and Background 
+Arguments values for many widgets, including Frames for Borders and Background 
 - bd is used for border width. For example bd=5
 - Relief is used for border-style values are FLAT, RAISED, GROOVE, SUNKEN, and RIDGE. For example relief=RAISED
 - bg is used for background color.For example bg="white" or bg="#FFFFFF".
