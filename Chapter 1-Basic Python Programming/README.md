@@ -7,33 +7,7 @@ Once you have completed your solution you should make sure you commit and push y
 ---
 &nbsp;
 
-## Exercise 1: print ☑️ 
-
-Write program to print the following messages
-
-```
-Python uses "interpreter" to convert source code into machine code.
-Interpreter 'translates' program one statement at a time.
-```
-&nbsp;
-&nbsp;
-## Exercise 2: Constant variable PI ☑️ 
-Write code to calculate the circumference and area of a circle from the radius. The program should ask the user to enter the desired radius of the circle.
-PI is defined as: ```3.14159 ```
-Area is defined as: ```PI * radius * radius ```
-Circumference is defined as: ```PI * Radius * 2```
-&nbsp;
-&nbsp;
-## Exercise 3 a: User Input Output ☑️ 
-Write code to prompt the user to input her/his name, age and hometown and print these details on the screen. The format of text should look like the sample output below but you can only use a single print when outputting the information.
-```
-Your Name is: Alpha
-Your Age is: 22
-Your Hometown is: Ras Al Khaimah
-```
-&nbsp;
-&nbsp;
-## Exercise 3 b: User Input Output ☑️ 
+## Exercise 1: User Input Output ☑️ 
 Write code to prompt the user to input her/his name and age and print these details on the screen. Find the length of the name and also the age of the user after one year.
 The format of text should look like the sample output below.
 (Use title() function)
@@ -50,32 +24,15 @@ You will be 23 in a year.
 ```
 &nbsp;
 &nbsp;
-## Exercise 4: Number Input Output ☑️ 
-Write code to prompt the user to input 3 integer values and print these values in forward and reversed order in a similar format to the below.
-```
-enter three numbers
-number 1 :10
-number 2 :20
-number 3 :60
-Your numbers forward:
-10
-20
-60
-Your numbers reversed:
-60
-20
-10
-```
-&nbsp;
-&nbsp;
-## Exercise 5: Maths ☑️ 
+
+## Exercise 2: Maths ☑️ 
 Write a program that evaluates the following calculations for two int numbers obtained from the user and outputs the results to the console:
 
 ```Sum (+) | Diff (-) | Product (x) | Quotient (/) | Remainder (%)```
 
 &nbsp;
 &nbsp;
-## Exercise 6: Is it Triangle ☑️ 
+## Exercise 3: Is it Triangle ☑️ 
 Write a program that asks the user to enter the lengths of the three sides of a triangle.
 Use the triangle inequality to determine if we have a triangle: In mathematics, the triangle inequality states that for any triangle, the sum of the lengths of any two sides must be greater than or equal to the length of the remaining side ([see here](https://en.wikipedia.org/wiki/Triangle_inequality))
 #### Extension Problem (Optional):
@@ -83,46 +40,41 @@ If valid, as the user for the length of the sides and have the program correctly
 &nbsp;
 &nbsp;
 
-## Exercise 7: Is it Even? ☑️ 
-Write a program that allows the user to input a number and checks whether the number is even or not using the Ternary operator.
-
-&nbsp;
-&nbsp;
-## Exercise 8: Largest Number ☑️ 
+## Exercise 4: Largest Number ☑️ 
 Write a program to input three numbers and outputs the largest using
 - The Ternary operator
 - The multiple if -else operator
 
 &nbsp;
 &nbsp;
-## Exercise 9: continue ☑️ 
+## Exercise 5: continue ☑️ 
 Write a program that implements a while loop. This program should ask the user if they would like to continue and use the while loop to keep looping as long as they enter the letter Y. Once the while loop has terminated output the number of times it is executed.
 
 &nbsp;
 &nbsp;
-## Exercise 10: FizzBuzz ☑️ 
+## Exercise 6: FizzBuzz ☑️ 
 Write a program that prints the numbers from 1 to 100. But for multiples of three print Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
 &nbsp;
 &nbsp;
-## Exercise 11: Even Numbers ☑️ 
+## Exercise 7: Even Numbers ☑️ 
 Write a program that prints the even numbers from 1 to 100. 
 Hint - Use Continue Statement
 
 &nbsp;
 &nbsp;
-## Optional Exercise 12:  Count seconds
+## Optional Exercise 8:  Count seconds
 Write a program that calculates the number of seconds in a day.
 Hint: Ask user to enter number of days, Convert days into hours, hours to minutes, minutes to seconds
 
 &nbsp;
 &nbsp;
-## Optional Exercise 13: Sum of Digits in a Number 
+## Optional Exercise 9: Sum of Digits in a Number 
 Write Python Program to Find the Sum of Digits in a Number .For example if enters a number 1234 the result is 1+2+3+4 = 10
 
 &nbsp;
 &nbsp;
-## Optional Exercise 14: Print Pattern
+## Exercise 10: Print Pattern ☑️ 
 Write a program to display the following pattern using nested loops.
 ```
 1
@@ -133,7 +85,7 @@ Write a program to display the following pattern using nested loops.
 ```
 &nbsp;
 &nbsp;
-## Optional Exercise 15: Multiplication Tables
+## Exercise 11: Multiplication Tables ☑️ 
 
 Write a program to print Multiplication table in following format from 1 to 10 tables
 Hint: Use nested loops
@@ -162,3 +114,109 @@ Multiplication table of : 10
 10 x 9 = 90
 10 x 10 = 100
 ```
+&nbsp;
+&nbsp;
+## Exercise 12: Integer List☑️ 
+
+Create an integer list and perform following operations
+- Create an int list with 10 values
+- Output the list using a for loop
+- Output the highest and lowest value
+- Sort the elements in ascending order
+- Sort the elements in descending order
+- Append two elements 
+- Print the list after appending
+
+
+&nbsp;
+&nbsp;
+## Exercise 13 : Film Dictionary☑️ 
+Create a dictionary that contains relevant data for films (e.g. Title, Director, etc). Display the film details using loop
+
+&nbsp;
+&nbsp;
+## Exercise 14: Year Tuples☑️ 
+
+Create a tuple with values
+
+```year = (2017,2003,2011,2005,1987,2009,2020,2018,2009)```
+
+- Access the value at index -3
+- Reverse the tuple and print the original tuple and reversed tuple 
+- Count number of times 2009 is in the tuple (use count() method) 
+- Get the index value of 2018(Use index method) 
+- Find length of given tuple(Use len() method)
+
+&nbsp;
+&nbsp;
+## Exercise 15: Count items☑️ 
+Write Python Program to Count the Number of Times an Item Appears in the List
+
+```staff = ["Arshiya", "Usman", "Iftikhar", "Usman", "Anmol","Zainab","Iftikhar", "Arshiya","Jake","Iftikhar"]```
+
+(Hint: For each item in the list consider it as a key, and the number of times these items appear will be its associated value)
+
+&nbsp;
+&nbsp;
+## Exercise 16: Locations List ☑️ 
+Using the list 
+
+```locations =['dubai','paris', 'switzerland', 'London', 'amsterdam', 'New York']```
+
+- Print the list and find the length of the list
+- Use sorted() to print your list in alphabetical order without modifying the actual list.
+- Show that your list is still in its original order by printing it.
+- Use sorted() to print your list in reverse alphabetical order without changing the order of the original list
+- Show that your list is still in its original order by printing it again.
+- Use reverse() to change the order of your list.
+- Print the list to show that its order has changed.
+- Use sort() to change your list so it’s stored in alphabetical order.
+- Print the list to show that its order has been changed.
+- Use sort() to change your list so it’s stored in reverse alphabetical order.
+- Print the list to show that its order has changed.
+&nbsp;
+&nbsp;
+
+## Exercise 17: Format Name☑️
+Write a function that takes a first and last name through user input, and returns a neatly formatted full name. 
+&nbsp;
+&nbsp;
+
+## Exercise 18: Area Function☑️
+Code a program to display a menu on the screen that asks if the user wants to
+```
+1: Calculate the area of a square
+2: Calculate the area of a circle
+3: Calculate the area of a triangle 
+```
+Each of the 3 functions should ask for the necessary information (e.g. lengths and/or angles and output the answer.
+&nbsp;
+&nbsp;
+## Exercise 19: Calculator Function☑️
+The program should display the following calculator menu:
+```
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus
+```
+The program will prompt the user to choose the operation choice (from 1 to 5). Then it asks the user to input values for the calculation. The program outputs the results of the calculation. The program should end by asking if the user would like to perform another calculation or not.
+&nbsp;
+&nbsp;
+## Exercise 20: Product of list items☑️
+Write a program that passes a list as an argument to a function. The function should then calculate the product (values multiplied) of the list values and return this value back to the main program.
+&nbsp;
+&nbsp;
+
+## Optional Exercise 21: Lamda function
+Create the list marks with the given values
+
+```marks = [("CodeLab I",67),("web Development", 75),("CodeLabII",74),("Smartphone Apps",68),("Games Development",70),("Responsive web",65)]```
+ 
+Using lambda function in the function sort the list elements of the tuple based on marks low to high and high to low
+&nbsp;
+&nbsp;
+
+
+
