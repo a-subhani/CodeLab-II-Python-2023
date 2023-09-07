@@ -10,21 +10,20 @@ Once you have completed your solution you should make sure you commit and push y
 
 # Exercise 1 a: Using pack ☑️ 
 
-Create a GUI with 4 labels using the pack() geometry as shown in the below images
+Create a GUI with 4 labels using the pack() geometry as shown in the below images. The	first image	shows	the	original display and	the	second image shows	what	happens	when	the	window	is	resized.
 
-The	first image	shows	the	original display and	the	second image shows	what	happens	when	the	window	is	resized
 ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/961eccd9-0750-4fd5-b553-421e4d0b8d7e)
 
 ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53b0d1f2-b58d-4709-8d5b-ad8b0c908ba8)
 
-Create an integer list and perform following operations
-- Create an int list with 10 values
-Borders and Background (many widgets, including Frames)
-- bd - border width, example bd=5
-- Relief - border style (FLAT, RAISED, GROOVE, SUNKEN, RIDGE)
--         - FLAT (default) no border shows
--         - Example relief=RAISED
-- bg - background color, example bg="white" or bg="#FFFFFF"
+### Additional information
+Attribute values for many widgets, including Frames for Borders and Background 
+- bd is used for border width. For example bd=5
+- Relief is used for border-style values are FLAT, RAISED, GROOVE, SUNKEN, and RIDGE. For example relief=RAISED
+- bg is used background color.For example bg="white" or bg="#FFFFFF"
+Pack arguments
+- Fill: Fills the space with the widget, Values are  Y, X, BOTH. For example fill=Y
+- Expand: The size of the button is expanded if the window is maximized. Values are 0,1, any number,YES, NO. For example  expand=0 (default) no expansion
 
 &nbsp;
 &nbsp;
