@@ -6,12 +6,12 @@ Once you have completed your solution you should make sure you commit and push y
 ---
 &nbsp;
 
-## Exercise 1: Input List ☑️ 
+## Exercise 1: PACK ☑️ 
 
-Write a program that requests five numbers from the user and adds these into a list. Once the values have been inputted, displaying them to the user is a nicely formatted list.
+Create a GUI using the buttons with pack() gerometry as shown below
+![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53a4057b-b06f-4a97-a379-648ce1611cfb)
 &nbsp;
 &nbsp;
-
 ## Exercise 2: Integer List☑️ 
 
 Create an integer list and perform following operations
