@@ -19,6 +19,7 @@ Attribute values for many widgets, including Frames for Borders and Background
 - bd is used for border width. For example bd=5
 - Relief is used for border-style values are FLAT, RAISED, GROOVE, SUNKEN, and RIDGE. For example relief=RAISED
 - bg is used for background color.For example bg="white" or bg="#FFFFFF".
+
 Pack arguments
 - Fill: Fill the space with the widget, Values are  Y, X, BOTH. For example fill=Y
 - Expand: The size of the button is expanded if the window is maximized. Values are 0,1, any number, YES, NO. For example  expand=0 (default) no expansion
