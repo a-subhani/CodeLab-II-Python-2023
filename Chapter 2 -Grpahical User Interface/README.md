@@ -10,11 +10,10 @@ Once you have completed your solution you should make sure you commit and push y
 
 # Exercise 1 a: Using pack ☑️ 
 
-Create a GUI using the buttons with pack() gerometry as shown below
+Create a GUI with buttons using the pack() gerometry as shown below
+The	first image	shows	the	original display and	the	second image shows	what	happens	when	the	window	is	resized
 
 ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/e08a36a4-5bfd-4252-9f2a-e53e6a7f921f)
-
-https://www.eecs.qmul.ac.uk/~william/CPD2017/gui-practical-sheet.pdf
 
 &nbsp;
 &nbsp;
