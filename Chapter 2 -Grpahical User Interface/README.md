@@ -10,10 +10,21 @@ Once you have completed your solution you should make sure you commit and push y
 
 # Exercise 1 a: Using pack ☑️ 
 
-Create a GUI with buttons using the pack() gerometry as shown below
-The	first image	shows	the	original display and	the	second image shows	what	happens	when	the	window	is	resized
+Create a GUI with 4 labels using the pack() geometry as shown in the below images
 
-![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/e08a36a4-5bfd-4252-9f2a-e53e6a7f921f)
+The	first image	shows	the	original display and	the	second image shows	what	happens	when	the	window	is	resized
+![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/961eccd9-0750-4fd5-b553-421e4d0b8d7e)
+
+![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/53b0d1f2-b58d-4709-8d5b-ad8b0c908ba8)
+
+Create an integer list and perform following operations
+- Create an int list with 10 values
+Borders and Background (many widgets, including Frames)
+- bd - border width, example bd=5
+- Relief - border style (FLAT, RAISED, GROOVE, SUNKEN, RIDGE)
+-         - FLAT (default) no border shows
+-         - Example relief=RAISED
+- bg - background color, example bg="white" or bg="#FFFFFF"
 
 &nbsp;
 &nbsp;
