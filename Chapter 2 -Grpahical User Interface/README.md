@@ -36,65 +36,37 @@ Pack arguments
 &nbsp;
 &nbsp;
 
-## Exercise 2: Integer List☑️ 
+## Exercise 2: Login page ☑️ 
 
-Create an integer list and perform following operations
-- Create an int list with 10 values
-- Output the list using a for loop
-- Output the highest and lowest value
-- Sort the elements in ascending order
-- Sort the elements in descending order
-- Append two elements 
-- Print the list after appending
+Create a login page using the Grid geometry. 
 
 
 &nbsp;
 &nbsp;
-## Exercise 3 : Film Dictionary☑️ 
-Create a dictionary that contains relevant data for films (e.g. Title, Director, etc). Display the film details using loop
+## Exercise 3: Registration page ☑️
+Using widgets create a GUI as shown in below image  
+![Student Management System](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/5f0da3a0-69aa-4854-8c5f-e90e4c76b996)
+
 
 &nbsp;
 &nbsp;
-## Exercise 4: Year Tuples☑️ 
+## Exercise 4: Calculator☑️ 
 
-Create a tuple with values
+Develop a GUI to perform basic arithmetic operations like addition, subtraction, multiplication, Division, and modulo division using buttons. You can ask the user to enter the values in entry widget and select the operation to be performed.
 
-```year = (2017,2003,2011,2005,1987,2009,2020,2018,2009)```
-
-- Access the value at index -3
-- Reverse the tuple and print the original tuple and reversed tuple 
-- Count number of times 2009 is in the tuple (use count() method) 
-- Get the index value of 2018(Use index method) 
-- Find length of given tuple(Use len() method)
 
 &nbsp;
 &nbsp;
-## Exercise 5: Count items☑️ 
-Write Python Program to Count the Number of Times an Item Appears in the List
+## Exercise 5: Count characters☑️ 
 
-```staff = ["Arshiya", "Usman", "Iftikhar", "Usman", "Anmol","Zainab","Iftikhar", "Arshiya","Jake","Iftikhar"]```
+Develop a GUI to count the number of vowels and consonants in the given string. Ask the user to enter the string
+For example
+Enter a word: hello world
+Total number of letters: 11
+Number of vowels:  3
+Number of consonants:  7
+Number of special characters:  1
 
-(Hint: For each item in the list consider it as a key, and the number of times these items appear will be its associated value)
 
 &nbsp;
 &nbsp;
-## Optional Exercise 6: Locations List
-Using the list 
-
-```locations =['dubai','paris', 'switzerland', 'London', 'amsterdam', 'New York']```
-
-- Print the list and find the length of the list
-- Use sorted() to print your list in alphabetical order without modifying the actual list.
-- Show that your list is still in its original order by printing it.
-- Use sorted() to print your list in reverse alphabetical order without changing the order of the original list
-- Show that your list is still in its original order by printing it again.
-- Use reverse() to change the order of your list.
-- Print the list to show that its order has changed.
-- Use sort() to change your list so it’s stored in alphabetical order.
-- Print the list to show that its order has been changed.
-- Use sort() to change your list so it’s stored in reverse alphabetical order.
-- Print the list to show that its order has changed.
-&nbsp;
-&nbsp;
-## Optional Exercise 7:Cities Dictionary
-Make a dictionary called cities. Use the names of three cities as keys in your dictionary. Create a dictionary of information about each city and include the country that the city is in, its approximate population, and one fact about that city. The keys for each city’s dictionary should be something like country, population, and fact. Print the name of each city and all of the information you have stored about it.
