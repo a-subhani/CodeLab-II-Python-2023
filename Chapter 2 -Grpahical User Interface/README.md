@@ -1,14 +1,20 @@
 # Chapter 2 - Exercises
-Exercises with a tick mark ☑️ represent exercises that must be submitted for the Programming Skills Portfolio as a minimum expectation. Completing more exercises provides the opportunity to attain higher marks. For each exercise you should create a new project with the name of the exercise and save it to this folder in your local repository.
+Exercises with a tick mark ☑️ represent exercises that must be submitted for the Programming Skills Portfolio as a minimum expectation. Completing more exercises provides the opportunity to attain higher marks. For each exercise, you should create a new project with the name of the exercise and save it to this folder in your local repository.
 
 Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the deadline will be marked for the Programming Skills Portfolio.
 
 ---
 &nbsp;
+## Exercise 1: Welcome ☑️ 
+Develop a GUI program to do the following using the tkinter module
+- create a label to display the welcome message and change the label font style (font name, bold, size)
+- Set the default window size
+- Disable resizing the window
+- Add background color to the Window.
 
-## Exercise 1: Managing	Layout ☑️ 
+## Exercise 2: Managing	Layout ☑️ 
 
-### Exercise 1 a: Using pack ☑️ 
+### Exercise 2 a: Using pack ☑️ 
 
 Create a GUI with 4 labels using the pack() geometry as shown in the below images. The	first image on the left shows	the	original display and the	second image on right shows	what	happens	when	the	window	is	resized.
 
@@ -26,40 +32,44 @@ Pack arguments
 
 &nbsp;
 &nbsp;
-### Exercise 1 b: Square Grid ☑️ 	
+### Exercise 2 b: Square Grid ☑️ 	
 - With	the	pack	layout	manager, Create the following labels inside the frames. A and B inside the left frame. C and D inside the right frame
 - Using Pack() align  A and C at the top and B and D at the bottom of the frames that contain them
 - Support	resizing. Use	the	‘expand’ and	‘fill’ attributes	of	the	pack	method	to	make	the	labels	grow	and	expand	into	the	available	space.
-- Assign border value as 5 to the frames	
+- Assign border value as 5 to the frames
+  
 ### EXPECTED OUTPUT
 ![image](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/a494c28e-8e84-45d6-8f2f-ce5a90793f28)
 &nbsp;
 &nbsp;
 
-## Exercise 2: Login page ☑️ 
+## Exercise 3: Login page ☑️ 
 
 Create a login page using the Grid geometry. 
 
-
 &nbsp;
 &nbsp;
-## Exercise 3: Registration page ☑️
+## Exercise 4: Registration page ☑️
 Using widgets create a GUI as shown in below image  
 
 ![Student Management System](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/1115b29d-5491-4967-b164-80ba26355a56)
 
 
-
 &nbsp;
 &nbsp;
-## Exercise 4: Calculator☑️ 
+## Exercise 5: Calculator☑️ 
 
 Develop a GUI to perform basic arithmetic operations like addition, subtraction, multiplication, Division, and modulo division using buttons. You can ask the user to enter the values in entry widget and select the operation to be performed.
 
+&nbsp;
+&nbsp;
+## Exercise 6: Count characters☑️ 
+Develop a GUI that implements a temperature converter application using Tkinter, allowing users to convert between Celsius and Fahrenheit.
+&nbsp;
+&nbsp;
 
-&nbsp;
-&nbsp;
-## Exercise 5: Count characters☑️ 
+
+## Optional Exercise 7: Converter
 
 Develop a GUI to count the number of vowels and consonants in the given string. Ask the user to enter the string
 For example
@@ -68,7 +78,5 @@ Total number of letters: 11
 Number of vowels:  3
 Number of consonants:  7
 Number of special characters:  1
-
-
 &nbsp;
 &nbsp;
