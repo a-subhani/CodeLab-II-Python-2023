@@ -6,21 +6,16 @@ Once you have completed your solution you should make sure you commit and push y
 ---
 &nbsp;
 
-## Exercise 1: Format Name☑️
+## Exercise 1: Working with frames☑️
 Write a Python Tkinter application that utilizes multiple frames to create a simple user interface. The application should consist of two frames, Frame 1 and Frame 2, both initially displayed in the same window. Frame 1 should have a label displaying the text "This is Frame 1" and a button labeled "Switch to Frame 2." Frame 2 should have a label displaying the text "This is Frame 2" and a button labeled "Switch to Frame 1."
 &nbsp;
 &nbsp;
-## Exercise 2: Sum Function☑️
-Write a program that calculates the sum of two values. The program should get the two values from user input and output the results to screen.
+## Exercise 2: Coffee Vending Machine☑️
+Develop a coffee Vending Machine that asks users to select the type of coffee, and also prompts user to select various options like sugar, milk, etc. Once selected display the message using a message box. Also, use images in the app.
 &nbsp;
 &nbsp;
 ## Exercise 3: Area Function☑️
-Code a program to display a menu on the screen that asks if the user wants to
-```
-1: Calculate the area of a square
-2: Calculate the area of a circle
-3: Calculate the area of a triangle 
-```
+Develop a GUI application using tkinter that allows users to calculate and display the areas of various shapes, including circles, squares, and rectangles. The application should utilize a tabbed interface to organize the calculations for each shape.
 Each of the 3 functions should ask for the necessary information (e.g. lengths and/or angles and output the answer.
 &nbsp;
 &nbsp;
