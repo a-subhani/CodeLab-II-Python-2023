@@ -7,7 +7,7 @@ Once you have completed your solution you should make sure you commit and push y
 &nbsp;
 
 ## Exercise 1: Format Name☑️
-Write a function that takes a first and last name through user input, and returns a neatly formatted full name. 
+Write a Python Tkinter application that utilizes multiple frames to create a simple user interface. The application should consist of two frames, Frame 1 and Frame 2, both initially displayed in the same window. Frame 1 should have a label displaying the text "This is Frame 1" and a button labeled "Switch to Frame 2." Frame 2 should have a label displaying the text "This is Frame 2" and a button labeled "Switch to Frame 1."
 &nbsp;
 &nbsp;
 ## Exercise 2: Sum Function☑️
