@@ -6,12 +6,21 @@ Once you have completed your solution you should make sure you commit and push y
 ---
 &nbsp;
 
-## Exercise 1: Working with frames☑️
-Write a Python Tkinter application that utilizes multiple frames to create a simple user interface. The application should consist of two frames, Frame 1 and Frame 2, both initially displayed in the same window. Frame 1 should have a label displaying the text "This is Frame 1" and a button labeled "Switch to Frame 2." Frame 2 should have a label displaying the text "This is Frame 2" and a button labeled "Switch to Frame 1."
-&nbsp;
-&nbsp;
+## Exercise 1: Greeting App ☑️
+Develop a GUI to greet the user. The app should have two frames: InputFrame and DisplayFrame.
+
+In InputFrame, include the following:
+-A title label in blue.
+-An entry field for the user's name.
+-A dropdown menu for selecting a color.
+-An "Update Greeting" button.
+In DisplayFrame, include a label to display the personalized greeting.
+-Initially, DisplayFrame is empty, when the user clicks the "Update Greeting" button in InputFrame, the personalized greeting should appear in DisplayFrame with the selected color.
+
+Use different background colors for each frame.
+
 ## Exercise 2: Coffee Vending Machine☑️
-Develop a coffee Vending Machine that asks users to select the type of coffee, and also prompts user to select various options like sugar, milk, etc. Once selected display the message using a message box. Also, use images in the app.
+Develop a coffee Vending Machine that asks users to select the type of coffee, and also prompts users to select various options like sugar, milk, etc. Once selected display the message using a message box. Also, use images in the app.
 &nbsp;
 &nbsp;
 ## Exercise 3: Area Function☑️
