@@ -18,10 +18,10 @@ Once the data has been written to the file, read the data from the file and outp
 ## Exercise 2: Count ☑️ 
 The file ```sentences.txt``` has a list of string data. Develop a GUI App that finds out how many times the following string appears 
 
-Hello my name is Peter Parker
-I love Python Programming
-Love
-Enemy
+- Hello my name is Peter Parker
+- I love Python Programming
+- Love
+- Enemy
 
 &nbsp;
 &nbsp;
