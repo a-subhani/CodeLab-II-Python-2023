@@ -61,13 +61,19 @@ Develop a GUI to perform basic arithmetic operations like addition, subtraction,
 
 &nbsp;
 &nbsp;
-## Bonus Assessment Exercise: Temperature Converter☑️ 
+## Bonus Assessment Exercise A: Temperature Converter
 Develop a GUI that implements a temperature converter application using Tkinter, allowing users to convert between Celsius and Fahrenheit.
 &nbsp;
 &nbsp;
-
+## Bonus Assessment Exercise B:  Age Calculator 
+Create a program to take input of the user's date of birth and output the age.
+Expected input: 8/5/2018
+Expected output: Your age is 5 years
+Hint: you can use the date from datetime package to get today's date
+&nbsp;
+&nbsp;
 # Further Exercises
-## Exercise 1:  Count characters
+## Exercise A:  Count characters
 Develop a GUI to count the number of vowels and consonants in the given string. Ask the user to enter the string
 For example
 Enter a word: hello world
@@ -77,13 +83,6 @@ Number of consonants:  7
 Number of special characters:  1
 &nbsp;
 &nbsp;
-## Exercise 2:  Age Calculator 
-Create a program to take input of the user's date of birth and output the age.
-Expected input: 8/5/2018
-Expected output: Your age is 5 years
-Hint: you can use the date from datetime package to get today's date
-&nbsp;
-&nbsp;
-## Exercise 3: Capitalize letters 
+## Exercise C: Capitalize letters 
 Create a GUI that takes input and changes all letters to upper case.
 hint : Use upper() function
