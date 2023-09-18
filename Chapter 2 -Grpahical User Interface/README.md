@@ -53,12 +53,9 @@ Create a login page using the Grid geometry.
 Using widgets create a GUI as shown in below image  
 
 ![Student Management System](https://github.com/a-subhani/CodeLab-II-Python-2023/assets/70882239/1115b29d-5491-4967-b164-80ba26355a56)
-
-
 &nbsp;
 &nbsp;
 ## Exercise 5: Calculator☑️ 
-
 Develop a GUI to perform basic arithmetic operations like addition, subtraction, multiplication, Division, and modulo division using buttons. You can ask the user to enter the values in entry widget and select the operation to be performed.
 
 &nbsp;
@@ -67,7 +64,7 @@ Develop a GUI to perform basic arithmetic operations like addition, subtraction,
 Develop a GUI that implements a temperature converter application using Tkinter, allowing users to convert between Celsius and Fahrenheit.
 &nbsp;
 &nbsp;
-### Optional Exercises
+# Optional Exercises
 
 ## Exercise 1:  Count characters
 Develop a GUI to count the number of vowels and consonants in the given string. Ask the user to enter the string
@@ -83,7 +80,6 @@ Number of special characters:  1
 Create a program to take input of the user's date of birth and output the age.
 Expected input: 8/5/2018
 Expected output: Your age is 5 years
-
 Hint : you can use the date from datetime package to get today's date
 &nbsp;
 &nbsp;
