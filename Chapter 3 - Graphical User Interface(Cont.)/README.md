@@ -35,7 +35,7 @@ Ask the user to input the coordinate values of the selected option
 &nbsp;
 &nbsp;
 
-### Bonus Assessment Exercise - Burger Shack Vendor
+## Bonus Assessment Exercise - Burger Shack Vendor
 
 Burger Shack is about to open in RAK, however, the fast food chain is in need of an ordering system. Write a program to handle the ordering process for the burger shack. The program should include:
 
