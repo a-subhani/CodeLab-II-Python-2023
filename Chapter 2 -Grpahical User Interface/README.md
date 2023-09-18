@@ -83,6 +83,6 @@ Number of consonants:  7
 Number of special characters:  1
 &nbsp;
 &nbsp;
-## Exercise C: Capitalize letters 
+## Exercise B: Capitalize letters 
 Create a GUI that takes input and changes all letters to upper case.
 hint : Use upper() function
