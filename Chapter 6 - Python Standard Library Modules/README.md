@@ -57,7 +57,7 @@ Draw a bar grpah with following information
 - values = [299.28, 297.51, 281.38, 191.57, 113.78, 99.66, 69.55, 67.44, 66.21, 65.67 ]
 Source - https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/
 
-## Exercise 4: Stack bar graph ☑️
+## Exercise 5: Stack bar graph ☑️
 In January 2007, a Gallup poll asked 1008 Americans aged 18 and over whether they planned to watch the upcoming Super Bowl. The pollster also asked who planned to watch whether they were looking forward more to watch football games or commercials. The results were summarized in the table
 ```
                 Male	 Female	  Total
