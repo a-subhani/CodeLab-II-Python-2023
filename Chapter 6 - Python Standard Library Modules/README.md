@@ -49,19 +49,14 @@ The program will prompt the user to choose the operation choice (from 1 to 6). T
 -  Draw a dotted line in a diagram from position (1, 3) to (2, 8) then to (6, 1) and finally to position (8, 10)
 &nbsp;
 &nbsp;
-## Exercise 4: Line graph ☑️
--  Draw a line in a diagram from position (1, 2) to position (6, 8)
--  Draw a dotted line in a diagram from position (1, 3) to (2, 8) then to (6, 1) and finally to position (8, 10)
-&nbsp;
-&nbsp;
-## Exercise 5: Bar graph ☑️
+
+## Exercise 4: Bar graph ☑️
 Draw a bar grpah with following information
 - Title : Most valuable brands worldwide in 2023 (in billion U.S. dollars)
 - brands = [ "Amazon", "Apple", "Google", "Microsoft", "Walmart", "Samsung Group", "ICBC", "Verizon", "Tesla", "TikTok/Douyin"]
 - values = [299.28, 297.51, 281.38, 191.57, 113.78, 99.66, 69.55, 67.44, 66.21, 65.67 ]
 Source - https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/
 
-```
 ## Exercise 4: Stack bar graph ☑️
 In January 2007, a Gallup poll asked 1008 Americans aged 18 and over whether they planned to watch the upcoming Super Bowl. The pollster also asked who planned to watch whether they were looking forward more to watch football games or commercials. The results were summarized in the table
 ```
