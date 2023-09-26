@@ -78,8 +78,6 @@ Create a JSON file named 'StudentJson.json' with the following details
   Group: A
   Year: 2
  ```
-&nbsp;
-&nbsp;
 
 ## Bonus Assessment Exercise A: Bar graph ☑️
 Draw a bar graph with the following information
