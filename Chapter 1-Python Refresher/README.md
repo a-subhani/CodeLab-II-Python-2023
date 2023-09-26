@@ -1,12 +1,12 @@
 # Chapter 1 - Exercises
 
-Exercises under the heading **Assessment Exercises** with a tick mark ☑️ must be attempted as a minimum expectation of the programming skills portfolio assessment. The assessment exercises also include some bonus exercises, these do not have to be completed, but doing so offers the potential to attain marks in the higher grade boundaries.
+Exercises under the heading **Assessment Exercises** with a ☑️ must be attempted as a minimum expectation of the programming skills portfolio assessment. The assessment exercises also include some bonus exercises, solving these bonus exercises offers the potential to attain marks in the higher grade boundaries.
 
 Further exercises are provided for you to practice and develop your programming skills. Completing these exercises is encouraged, although they have **no impact** on the programming skills portfolio mark.
-
 For each exercise you should create a _**new project**_ with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push the code to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.
 
 ---
+
 &nbsp;
 ## Assessment Exercises
 
