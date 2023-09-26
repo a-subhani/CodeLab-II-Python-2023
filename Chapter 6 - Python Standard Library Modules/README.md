@@ -53,13 +53,13 @@ The program will prompt the user to choose the operation choice (from 1 to 6). T
 Create a JSON file named 'StudentJson.json' with the following details
 - Ask the user to enter the student name, ID, and course and write these contents to the JSON file.
 - Read the contents from the JSON file and display the individual values
-'''
+```
   Expected output :
   Details of the Student are
   Name: Alpha
   ID: 1
   course: BSc CC
-  '''       
+  ```       
 - Append another dictionary as follows as key value pair for student 1 in StudentDetails dictionary to form a nested dictionay. Later update the JSON file.
   "CourseDetails":{ 
             "Group": "A",
@@ -68,14 +68,14 @@ Create a JSON file named 'StudentJson.json' with the following details
 - Print the individual vlaues of the Student details reading from JSON file 
 
   Expected Output :
-  '''
+  ```
   Details of the Student are
   Name: Alpha
   ID: 1
   course: BSc CC
   Group: A
   Year: 2
-'''
+```
 &nbsp;
 &nbsp;
 
