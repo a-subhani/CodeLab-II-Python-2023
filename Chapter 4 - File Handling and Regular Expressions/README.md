@@ -1,12 +1,14 @@
 # Chapter 4 - Exercises
-Exercises with a tick mark ☑️ represent exercises that must be submitted for the Programming Skills Portfolio as a minimum expectation. Completing more exercises provides the opportunity to attain higher marks. For each exercise you should create a new project with the name of the exercise and save it to this folder in your local repository.
+Exercises under the heading **Assessment Exercises** with a ☑️ must be attempted as a minimum expectation of the programming skills portfolio assessment. The assessment exercises also include some bonus exercises, solving these bonus exercises offers the potential to attain marks in the higher grade boundaries.
 
-Once you have completed your solution you should make sure you commit and push your solutions to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the deadline will be marked for the Programming Skills Portfolio.
+Further exercises are provided for you to practice and develop your programming skills. Completing these exercises is encouraged, although they have **no impact** on the programming skills portfolio mark.
+For each exercise you should create a _**new project**_ with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push the code to your remote repository on GitHub. You can commit and push as many changes to your solutions as you wish, only those pushed before the chapter deadlines will be marked for the Programming Skills Portfolio.
 
 ---
+
 &nbsp;
-&nbsp;
-## Exercise 1: User information ☑️ 
+## Assessment Exercises
+### Exercise 1: User information ☑️ 
 Develop a GUI App to create a file called ```bio.txt``` and write the following information to the file asking user to enter the values:
 Name
 Age
@@ -15,24 +17,25 @@ Each piece of data should be on a new line
 Once the data has been written to the file, read the data from the file and output the data.
 &nbsp;
 &nbsp;
-## Exercise 2: Count ☑️ 
+### Exercise 2: CountString ☑️ 
 The file ```sentences.txt``` has a list of string data. Develop a GUI App that finds out how many times the following string appears 
 
 - Hello my name is Peter Parker
 - I love Python Programming
 - Love
 - Enemy
-
-&nbsp;
 &nbsp;
 ## Extension
 Create an entry label for free search in the above app
 
-## Exercise 3: Reading to a List ☑️ 
+&nbsp;
+&nbsp;
+### Exercise 3: Reading to a List ☑️ 
 The file ```numbers.txt``` has a list of 100 integer numbers each on a newline. Create a python program that puts this data into a list, then output the values in integer format.
+
 &nbsp;
 &nbsp;
-## Exercise 4: letter count ☑️ 
+### Exercise 4: letter count ☑️ 
 
 Develop a GUI App that asks the user to enter a character, reads the contents of the ```sentences.txt``` file, and counts the occurrences of the letter.
 
@@ -52,7 +55,8 @@ Ask user to include a maximum of 5 passcode attempts. Each time the user enters 
 &nbsp;
 &nbsp;
 
-## Bonus Assessment Exercise:  Petrol Price
+## Bonus Assessment Exercises
+### Exercise A:  Petrol Price
 Every time a motorist buys some petrol, he notes the number of liters bought and the amount paid per liter. This data can be found in the ```petrolPrice.txt``` file in your GitHub repository.The data is stored in columns separated by a tabbed space, like the following sample:
 ```
 Liters	cost
@@ -74,7 +78,7 @@ Develop a GUI App that calculates:
 &nbsp;
 &nbsp;
 # Further Exercise
-## Exercise A: Check Input
+## Exercise I: Check Input
 Develop a GUI to check the user input using the following regular expression options using buttons 
 - to match a string that contains only upper and lowercase letters, numbers, and underscores.
 - to match a string will start with a specific number
