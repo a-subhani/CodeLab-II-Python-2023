@@ -63,7 +63,7 @@ Create a JSON file named 'StudentJson.json' with the following details
   course: BSc CC
   ```       
 - Append another dictionary as follows as key value pair for student 1 in StudentDetails dictionary to form a nested dictionay. Later update the JSON file.
-  "CourseDetails":{ 
+"CourseDetails":{ 
             "Group": "A",
             "Year": 2
          }
@@ -77,8 +77,7 @@ Create a JSON file named 'StudentJson.json' with the following details
   course: BSc CC
   Group: A
   Year: 2
- ```
-
+  ```       &nbsp;
 ## Bonus Assessment Exercise A: Bar graph ☑️
 Draw a bar graph with the following information
 - Title: Most valuable brands worldwide in 2023 (in billion U.S. dollars)
