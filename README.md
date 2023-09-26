@@ -27,4 +27,4 @@ Guides on cloning this repository to your machine via GitHub desktop are provide
 
 ### Resources
 
-This folder contains files required for the file handling tasks as well as some useful code snippets for common programs.
+This folder contains files required for the file handling tasks as well as some useful code snippets.
