@@ -38,7 +38,7 @@ Write a program that will display the following calculator menu
 ```
 The program will prompt the user to choose the operation choice (from 1 to 6). Then it asks the user to input values for the calculation. The program outputs the results of the calculation.Use operator module functions
 
-### Extension Problem (Optional):
+### Extension Problem (Bonus):
 - Allow the user to keep entering values until they enter Q to quit.
 - Handle incorrect input
  
@@ -50,22 +50,27 @@ The program will prompt the user to choose the operation choice (from 1 to 6). T
 &nbsp;
 &nbsp;
 ## Exercise 4: Working with JSON File ☑️
+Create a JSON file named 'StudentJson.json' with the following details
 -  1. Ask the user to enter the student name, ID, and course and write these contents to the JSON file.
 -  2. Read the contents from the JSON file and display the individual values
   Expected output :
   Details of the Student are
   Name: Alpha
-  ID: 34567
+  ID: 1
   course: BSc CC        
-- 3. Create another dictionary for student 2 and append the details of student 2 in the JSON file
-  (Hint: Copy the contents of the JSON file to the list and append the student 2 dictionary to the list then write into the JSON file with the new list created)
-- 4. Read the individual values from the JSON file to begin with Open the JSON file and add the Course details for each student as follows
-''' "CourseDetails":{ 
+- 3. Append another dictionary as follows as key value pair for student 1 in StudentDetails dictionary to form a nested dictionay. Later update the JSON file.
+  "CourseDetails":{ 
             "Group": "A",
             "Year": 2
          }
-  '''
-
+- 4. Print the individual vlaues of the Student details reading from JSON file 
+  Expected Output :
+  Details of the Student are
+  Name: Alpha
+  ID: 1
+  course: BSc CC 
+  Group: A
+  Year: 2
 
 &nbsp;
 &nbsp;
@@ -77,7 +82,7 @@ Draw a bar graph with the following information
 - values = [299.28, 297.51, 281.38, 191.57, 113.78, 99.66, 69.55, 67.44, 66.21, 65.67 ]
 Source - https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/
 # Further Exercises
-## Exercise I: Stack bar graph ☑️
+## Exercise I: Stack bar graph
 In January 2007, a Gallup poll asked 1008 Americans aged 18 and over whether they planned to watch the upcoming Super Bowl. The pollster also asked who planned to watch whether they were looking forward more to watch football games or commercials. The results were summarized in the table
 ```
                 Male	 Female	  Total
@@ -86,16 +91,5 @@ Commercials	81	  156	    237
 won’t watch	132	  160	    292
 Total		492	  516	    1008
 ```
-
-
-import json
-
-sampleJson = {"id" : 1, "name" : "value2", "age" : 29}
-
-
-print("Started writing JSON data into a file")
-with open("sampleJson.json", "w") as write_file:
-    json.dump(sampleJson, write_file, indent=6)
-print("Done writing JSON data into a file")
-https://pynative.com/python-json-exercise/#h-exercise-3-prettyprint-following-json-data
-https://www.w3resource.com/python-exercises/requests/index.php
+## Exercise II: Working with JSON file Extension
+In the above Exercise 4: Working with JSON File add details of another student and display the contents of JSON File.
