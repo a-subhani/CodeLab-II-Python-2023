@@ -10,7 +10,7 @@ For each exercise you should create a _**new project**_ with the name of the exe
 &nbsp;
 ## Assessment Exercises
 
-## Exercise 1: User Input Output ☑️ 
+### Exercise 1: User Input Output ☑️ 
 Write code to prompt the user to input her/his name and age and print these details on the screen. Find the length of the name and also the age of the user after one year.
 The format of text should look like the sample output below.
 (Use title() function)
@@ -28,14 +28,14 @@ You will be 23 in a year.
 &nbsp;
 &nbsp;
 
-## Exercise 2: Maths ☑️ 
+### Exercise 2: Maths ☑️ 
 Write a program that evaluates the following calculations for two int numbers obtained from the user and outputs the results to the console:
 
 ```Sum (+) | Diff (-) | Product (x) | Quotient (/) | Remainder (%)```
 
 &nbsp;
 &nbsp;
-## Exercise 3: Is it Triangle ☑️ 
+### Exercise 3: Is it Triangle ☑️ 
 Write a program that asks the user to enter the lengths of the three sides of a triangle.
 Use the triangle inequality to determine if we have a triangle: In mathematics, the triangle inequality states that for any triangle, the sum of the lengths of any two sides must be greater than or equal to the length of the remaining side ([see here](https://en.wikipedia.org/wiki/Triangle_inequality))
 #### Extension Problem (Optional):
@@ -43,30 +43,28 @@ If valid, as the user for the length of the sides and have the program correctly
 &nbsp;
 &nbsp;
 
-## Exercise 4: Largest Number ☑️ 
-Write a program to input three numbers and outputs the largest using
-- The Ternary operator
-- The multiple if -else operator
+### Exercise 4: Largest Number ☑️ 
+Write a program to input three numbers and outputs the largest using the multiple if -else statements
 
 &nbsp;
 &nbsp;
-## Exercise 5: continue ☑️ 
+### Exercise 5: Continue ☑️ 
 Write a program that implements a while loop. This program should ask the user if they would like to continue and use the while loop to keep looping as long as they enter the letter Y. Once the while loop has terminated output the number of times it is executed.
 
 &nbsp;
 &nbsp;
-## Exercise 6: FizzBuzz ☑️ 
+### Exercise 6: FizzBuzz ☑️ 
 Write a program that prints the numbers from 1 to 100. But for multiples of three print Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
 &nbsp;
 &nbsp;
-## Exercise 7: Even Numbers ☑️ 
+### Exercise 7: Even Numbers ☑️ 
 Write a program that prints the even numbers from 1 to 100. 
 Hint - Use Continue Statement
 
 &nbsp;
 &nbsp;
-## Exercise 8: Print Pattern ☑️ 
+### Exercise 8: Print Pattern ☑️ 
 Write a program to display the following pattern using nested loops.
 ```
 1
@@ -78,7 +76,7 @@ Write a program to display the following pattern using nested loops.
 &nbsp;
 &nbsp;
 
-## Exercise 9: Integer List☑️ 
+### Exercise 9: Integer List☑️ 
 
 Create an integer list and perform following operations
 - Create an int list with 10 values
@@ -92,12 +90,12 @@ Create an integer list and perform following operations
 
 &nbsp;
 &nbsp;
-## Exercise 10 : Film Dictionary☑️ 
+### Exercise 10 : Film Dictionary☑️ 
 Create a dictionary that contains relevant data for films (e.g. Title, Director, etc). Display the film details using loop
 
 &nbsp;
 &nbsp;
-## Exercise 11: Year Tuples☑️ 
+### Exercise 11: Year Tuples☑️ 
 
 Create a tuple with values
 
@@ -111,7 +109,7 @@ Create a tuple with values
 
 &nbsp;
 &nbsp;
-## Exercise 12: Area Function☑️
+### Exercise 12: Area Function☑️
 Code a program to display a menu on the screen that asks if the user wants to
 ```
 1: Calculate the area of a square
@@ -122,13 +120,13 @@ Each of the 3 functions should ask for the necessary information (e.g. lengths a
 &nbsp;
 &nbsp;
 
-## Exercise 13: Product of list items☑️
+### Exercise 13: Product of list items☑️
 Write a program that passes a list as an argument to a function. The function should then calculate the product (values multiplied) of the list values and return this value back to the main program.
 &nbsp;
 &nbsp;
 
 # Bonus Exercises
-## Exercise A: Multiplication Tables ☑️ 
+### Exercise A: Multiplication Tables ☑️ 
 
 Write a program to print Multiplication table in following format from 1 to 10 tables
 Hint: Use nested loops
@@ -159,7 +157,7 @@ Multiplication table of : 10
 ```
 &nbsp;
 &nbsp;
-## Exercise B: Locations List ☑️ 
+### Exercise B: Locations List ☑️ 
 Using the list 
 
 ```locations =['dubai','paris', 'switzerland', 'London', 'amsterdam', 'New York']```
@@ -177,7 +175,7 @@ Using the list
 - Print the list to show that its order has changed.
 &nbsp;
 &nbsp;
-## Exercise C: Calculator Function☑️
+### Exercise C: Calculator Function☑️
 The program should display the following calculator menu:
 ```
 1. Add
@@ -190,18 +188,18 @@ The program will prompt the user to choose the operation choice (from 1 to 5). T
 &nbsp;
 &nbsp;
 ## Further Exercises
-## Exercise I:  Count seconds
+### Exercise I:  Count seconds
 Write a program that calculates the number of seconds in a day.
 Hint: Ask user to enter number of days, Convert days into hours, hours to minutes, minutes to seconds
 
 &nbsp;
 &nbsp;
-## Exercise II: Sum of Digits in a Number 
+### Exercise II: Sum of Digits in a Number 
 Write Python Program to Find the Sum of Digits in a Number .For example if enters a number 1234 the result is 1+2+3+4 = 10
 
 &nbsp;
 &nbsp;
-## Exercise III: Arrows
+### Exercise III: Arrows
 Write a Python program to print the asterisk pattern shown below
 
 ```
@@ -217,7 +215,7 @@ Write a Python program to print the asterisk pattern shown below
 
 &nbsp;
 &nbsp;
-## Exercise IV: Count items 
+### Exercise IV: Count items 
 Write Python Program to Count the Number of Times an Item Appears in the List
 
 ```staff = ["Arshiya", "Usman", "Iftikhar", "Usman","Rafia", "Mary", "Anmol","Zainab","Iftikhar", "Arshiya","Rafia","Jake"]```
@@ -226,7 +224,7 @@ Write Python Program to Count the Number of Times an Item Appears in the List
 
 &nbsp;
 &nbsp;
-## Exercise V: Lamda function
+### Exercise V: Lamda function
 Create the list marks with the given values
 
 ```marks = [("CodeLab I",67),("web Development", 75),("CodeLabII",74),("Smartphone Apps",68),("Games Development",70),("Responsive web",65)]```
@@ -234,6 +232,3 @@ Create the list marks with the given values
 Using lambda function in the function sort the list elements of the tuple based on marks low to high and high to low
 &nbsp;
 &nbsp;
-
-
-
