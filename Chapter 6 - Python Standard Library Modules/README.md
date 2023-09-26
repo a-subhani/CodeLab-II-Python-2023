@@ -49,15 +49,35 @@ The program will prompt the user to choose the operation choice (from 1 to 6). T
 -  Draw a dotted line in a diagram from position (1, 3) to (2, 8) then to (6, 1) and finally to position (8, 10)
 &nbsp;
 &nbsp;
+## Exercise 4: Working with JSON File ☑️
+-  1. Ask the user to enter the student name, ID, and course and write these contents to the JSON file.
+-  2. Read the contents from the JSON file and display the individual values
+  Expected output :
+  Details of the Student are
+  Name: Alpha
+  ID: 34567
+  course: BSc CC        
+- 3. Create another dictionary for student 2 and append the details of student 2 in the JSON file
+  (Hint: Copy the contents of the JSON file to the list and append the student 2 dictionary to the list then write into the JSON file with the new list created)
+- 4. Read the individual values from the JSON file to begin with Open the JSON file and add the Course details for each student as follows
+''' "CourseDetails":{ 
+            "Group": "A",
+            "Year": 2
+         }
+  '''
 
-## Bonus Assessmnet Exercise 4: Bar graph ☑️
-Draw a bar grpah with following information
-- Title : Most valuable brands worldwide in 2023 (in billion U.S. dollars)
+
+&nbsp;
+&nbsp;
+
+## Bonus Assessment Exercise A: Bar graph ☑️
+Draw a bar graph with the following information
+- Title: Most valuable brands worldwide in 2023 (in billion U.S. dollars)
 - brands = [ "Amazon", "Apple", "Google", "Microsoft", "Walmart", "Samsung Group", "ICBC", "Verizon", "Tesla", "TikTok/Douyin"]
 - values = [299.28, 297.51, 281.38, 191.57, 113.78, 99.66, 69.55, 67.44, 66.21, 65.67 ]
 Source - https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/
 # Further Exercises
-## Exercise A: Stack bar graph ☑️
+## Exercise I: Stack bar graph ☑️
 In January 2007, a Gallup poll asked 1008 Americans aged 18 and over whether they planned to watch the upcoming Super Bowl. The pollster also asked who planned to watch whether they were looking forward more to watch football games or commercials. The results were summarized in the table
 ```
                 Male	 Female	  Total
