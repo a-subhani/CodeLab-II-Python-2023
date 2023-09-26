@@ -125,7 +125,7 @@ Write a program that passes a list as an argument to a function. The function sh
 &nbsp;
 &nbsp;
 
-# Bonus Exercises
+# Bonus Assessment Exercises
 ### Exercise A: Multiplication Tables ☑️ 
 
 Write a program to print Multiplication table in following format from 1 to 10 tables
