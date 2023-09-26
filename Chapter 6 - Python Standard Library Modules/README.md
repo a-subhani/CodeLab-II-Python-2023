@@ -5,7 +5,7 @@ Once you have completed your solution you should make sure you commit and push y
 
 ---
 &nbsp;
-
+# Assessment Exercises
 ## Exercise 1: Basic Math ☑️
 Using math module compute the following
 - For a =2.3 find the ceil of a
@@ -50,14 +50,14 @@ The program will prompt the user to choose the operation choice (from 1 to 6). T
 &nbsp;
 &nbsp;
 
-## Exercise 4: Bar graph ☑️
+## Bonus Assessmnet Exercise 4: Bar graph ☑️
 Draw a bar grpah with following information
 - Title : Most valuable brands worldwide in 2023 (in billion U.S. dollars)
 - brands = [ "Amazon", "Apple", "Google", "Microsoft", "Walmart", "Samsung Group", "ICBC", "Verizon", "Tesla", "TikTok/Douyin"]
 - values = [299.28, 297.51, 281.38, 191.57, 113.78, 99.66, 69.55, 67.44, 66.21, 65.67 ]
 Source - https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/
-
-## Exercise 5: Stack bar graph ☑️
+# Further Exercises
+## Exercise A: Stack bar graph ☑️
 In January 2007, a Gallup poll asked 1008 Americans aged 18 and over whether they planned to watch the upcoming Super Bowl. The pollster also asked who planned to watch whether they were looking forward more to watch football games or commercials. The results were summarized in the table
 ```
                 Male	 Female	  Total
@@ -66,3 +66,16 @@ Commercials	81	  156	    237
 won’t watch	132	  160	    292
 Total		492	  516	    1008
 ```
+
+
+import json
+
+sampleJson = {"id" : 1, "name" : "value2", "age" : 29}
+
+
+print("Started writing JSON data into a file")
+with open("sampleJson.json", "w") as write_file:
+    json.dump(sampleJson, write_file, indent=6)
+print("Done writing JSON data into a file")
+https://pynative.com/python-json-exercise/#h-exercise-3-prettyprint-following-json-data
+https://www.w3resource.com/python-exercises/requests/index.php
