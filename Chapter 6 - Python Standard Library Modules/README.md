@@ -82,7 +82,7 @@ Details of the Student are
  
 &nbsp;
 &nbsp;
-## Bonus Assessment Exercise A: Bar graph ☑️
+## Bonus Assessment Exercise A: Bar graph
 Draw a bar graph with the following information
 - Title: Most valuable brands worldwide in 2023 (in billion U.S. dollars)
 - brands = [ "Amazon", "Apple", "Google", "Microsoft", "Walmart", "Samsung Group", "ICBC", "Verizon", "Tesla", "TikTok/Douyin"]
