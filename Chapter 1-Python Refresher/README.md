@@ -39,7 +39,7 @@ Write a program that evaluates the following calculations for two int numbers ob
 Write a program that asks the user to enter the lengths of the three sides of a triangle.
 Use the triangle inequality to determine if we have a triangle: In mathematics, the triangle inequality states that for any triangle, the sum of the lengths of any two sides must be greater than or equal to the length of the remaining side ([see here](https://en.wikipedia.org/wiki/Triangle_inequality))
 #### Extension Problem (Optional):
-If valid, as the user for the length of the sides and have the program correctly classify the type of triangle as either: Equilateral, Isosceles or Scalene  ([see here](https://www.mathsisfun.com/triangle.html))
+If valid, ask the user for the length of the sides and have the program correctly classify the type of triangle as either: Equilateral, Isosceles or Scalene  ([see here](https://www.mathsisfun.com/triangle.html))
 &nbsp;
 &nbsp;
 
