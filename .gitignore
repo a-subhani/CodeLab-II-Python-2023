@@ -1,0 +1,31 @@
+# Mac ignores
+*.make
+*.xcodeproj
+*.plist
+.DS_Store
+*.xcconfig
+*.app
+Makefile
+
+# PC Ignores
+*.sln
+*.vcxproj
+*.obj
+*.vs
+obj
+bin
+icon.rc
+*.vcxproj.filters
+*.vcxproj.user
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+.suo
+.user
