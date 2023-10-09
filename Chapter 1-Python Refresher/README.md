@@ -200,7 +200,7 @@ Write Python Program to Find the Sum of Digits in a Number .For example if enter
 &nbsp;
 &nbsp;
 ### Exercise III: Arrows
-Write a Python program to print the asterisk pattern shown below
+Write a Python program to print the asterisk pattern shown below ( hint : Use print statements)
 
 ```
      *
@@ -208,9 +208,7 @@ Write a Python program to print the asterisk pattern shown below
    *****
   *******
  *********
-    ***  
-    ***
-    ***
+  
 ```
 
 &nbsp;
